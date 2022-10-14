@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FnuAkshata
+- 👋 Hi, I’m Akshata
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on any projects with java backend development
