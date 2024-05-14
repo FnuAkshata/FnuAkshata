@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshata
 - 👀 I’m interested in Java Development and Automation Testing
-- 🌱 I’m currently learning Java, Selenium WebDriver 
+- 🌱 I’m currently learning Java Backend Development, Automation Testing. 
 - 💞️ I’m looking to collaborate on any projects with java backend development
 - 📫 How to reach me akshata.santu@gmail.com
 
